@@ -8,6 +8,7 @@ How to increase EBS volume:
 2. To get reflect we need to run below commands
 
 A:  Check file system:
+
 [ec2-user@ip-10-0-0-240 ~]$ lsblk
 NAME    MAJ:MIN RM SIZE RO TYPE MOUNTPOINT
 xvda    202:0    0  10G  0 disk
